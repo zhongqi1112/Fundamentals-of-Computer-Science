@@ -1,0 +1,11 @@
+(1, 1) (5, 6)
+Distance: 6.40312
+Slope: 1.25
+Mid Point: (3, 3.5)
+
+(3, 5) (6, 8)
+length: 4.24264
+Slope: 1
+Mid Point: (4.5, 6.5)
+
+Press <RETURN> to close this window...

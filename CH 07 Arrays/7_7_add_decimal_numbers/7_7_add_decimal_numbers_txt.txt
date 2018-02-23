@@ -1,0 +1,44 @@
+7_7_add_decimal_numbers
+
+Enter two Decimal Numbers:
+Number 1: 9
+Number 2: 9
+9 + 9 = 18
+
+Do you want to repeat calculation?(y/n) y
+Number 1: 9
+Number 2: 99
+9 + 99 = 108
+
+Do you want to repeat calculation?(y/n) y
+Number 1: 99
+Number 2: 99999
+99 + 99999 = 100098
+
+Do you want to repeat calculation?(y/n) y
+Number 1: 123
+Number 2: 456
+123 + 456 = 579
+
+Do you want to repeat calculation?(y/n) y
+Number 1: 123
+Number 2: 3211
+123 + 3211 = 3334
+
+Do you want to repeat calculation?(y/n) y
+Number 1: 391
+Number 2: 391
+391 + 391 = 782
+
+Do you want to repeat calculation?(y/n) y
+Number 1: 369
+Number 2: 963741
+369 + 963741 = 964110
+
+Do you want to repeat calculation?(y/n) n
+
+Thank you!
+
+==========================================================================
+
+Press <RETURN> to close this window...

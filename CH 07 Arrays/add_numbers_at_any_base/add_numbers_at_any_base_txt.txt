@@ -1,0 +1,122 @@
+Add numbers at any base
+
+[D]ecimal, [B]inary, [H]ex
+d
+Enter two Numbers:
+Number 1: 999999999999
+Number 2: 888888
+Size is: 5. Overflew. Enter again.
+Number 1: 1
+Number 2: 23
+1 + 23 = 24
+
+Do you want to repeat calculation?(y/n) y
+[D]ecimal, [B]inary, [H]ex
+d
+Enter two Numbers:
+Number 1: 99999
+Number 2: 1
+99999 + 1 = Addition Overflew
+
+Do you want to repeat calculation?(y/n) y
+[D]ecimal, [B]inary, [H]ex
+d
+Enter two Numbers:
+Number 1: 99998
+Number 2: 1
+99998 + 1 = 99999
+
+Do you want to repeat calculation?(y/n) y
+[D]ecimal, [B]inary, [H]ex
+d
+Enter two Numbers:
+Number 1: 99
+Number 2: 999
+99 + 999 = 1098
+
+Do you want to repeat calculation?(y/n) y
+[D]ecimal, [B]inary, [H]ex
+d
+Enter two Numbers:
+Number 1: 563
+Number 2: 619
+563 + 619 = 1182
+
+Do you want to repeat calculation?(y/n) y
+[D]ecimal, [B]inary, [H]ex
+d
+Enter two Numbers:
+Number 1: 99999
+Number 2: 3
+99999 + 3 = Addition Overflew
+
+Do you want to repeat calculation?(y/n) y
+[D]ecimal, [B]inary, [H]ex
+b
+Enter two Numbers:
+Number 1: 1010
+Number 2: 11
+1010 + 11 = 1101
+
+Do you want to repeat calculation?(y/n) y
+[D]ecimal, [B]inary, [H]ex
+b
+Enter two Numbers:
+Number 1: 11
+Number 2: 10
+11 + 10 = 101
+
+Do you want to repeat calculation?(y/n) y
+[D]ecimal, [B]inary, [H]ex
+b
+Enter two Numbers:
+Number 1: 1011101
+Number 2: 101
+Size is: 5. Overflew. Enter again.
+Number 1: 101
+Number 2: 111
+101 + 111 = 1100
+
+Do you want to repeat calculation?(y/n) y
+[D]ecimal, [B]inary, [H]ex
+h
+Enter two Numbers:
+Number 1: 9
+Number 2: 9
+9 + 9 = 12
+
+Do you want to repeat calculation?(y/n) y
+[D]ecimal, [B]inary, [H]ex
+h
+Enter two Numbers:
+Number 1: A
+Number 2: A
+A + A = 14
+
+Do you want to repeat calculation?(y/n) y
+[D]ecimal, [B]inary, [H]ex
+h
+Enter two Numbers:
+Number 1: 1A
+Number 2: 1B
+1A + 1B = 35
+
+Do you want to repeat calculation?(y/n) y
+[D]ecimal, [B]inary, [H]ex
+h
+Enter two Numbers:
+Number 1: FAC4
+Number 2: 9BDE
+FAC4 + 9BDE = 196A2
+
+Do you want to repeat calculation?(y/n) n
+
+Thank you!
+
+==========================================================================
+
+Press <RETURN> to close this window...
+
+
+
+

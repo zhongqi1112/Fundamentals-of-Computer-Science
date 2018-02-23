@@ -1,0 +1,20 @@
+4_11_absolute_value
+
+Int=7
+Double=-9
+Float=-3.75
+Long=-1.56
+
+Abs(Int) is being called
+Abs Int:7
+
+Abs(Double) is being called
+Abs Double:9
+
+Abs(Float) is being called
+Abs Float:3.75
+
+Abs(Long) is being called
+Abs Long:1
+
+Press <RETURN> to close this window...

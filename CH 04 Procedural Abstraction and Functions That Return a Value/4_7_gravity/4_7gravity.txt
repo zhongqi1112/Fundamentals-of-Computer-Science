@@ -1,0 +1,23 @@
+4_7_gravity
+
+Input two mass:
+Mass 1: 1
+Mass 2: 1
+Input the distance: 1
+Gravitational attractive force: 6.673e-008
+
+Do you want to do again? y
+Input two mass:
+Mass 1: 7
+Mass 2: 8
+Input the distance: 9
+Gravitational attractive force: 4.61343e-008
+
+Do you want to do again? n
+
+Thank you!
+
+==========================================================================
+
+
+Press <RETURN> to close this window...

@@ -1,0 +1,83 @@
+Triangle Type
+Input correct three sides of a triangle:
+1
+1
+1
+
+Three sides: a=1  b=1  c=1
+Three angle: A=60  B=60  C=60
+Triangle Type: ACUTE ISOSCELES EQUILATERAL TRIANGLE
+Area: 0.433013
+Premeter: 3
+
+Do you want to repeat calculation?(y/n) y
+Input correct three sides of a triangle:
+3
+4
+5
+
+Three sides: a=5  b=4  c=3
+Three angle: A=90  B=53.1301  C=36.8699
+Triangle Type: RIGHT SCALENE TRIANGLE
+Area: 6
+Premeter: 12
+
+Do you want to repeat calculation?(y/n) y
+Input correct three sides of a triangle:
+1
+1
+1.1
+
+Three sides: a=1.1  b=1  c=1
+Three angle: A=66.734  B=56.633  C=56.633
+Triangle Type: ACUTE ISOSCELES TRIANGLE
+Area: 0.459341
+Premeter: 3.1
+
+Do you want to repeat calculation?(y/n) y
+Input correct three sides of a triangle:
+1
+1
+1.9
+
+Three sides: a=1.9  b=1  c=1
+Three angle: A=143.61  B=18.1949  C=18.1949
+Triangle Type: OBTUSE ISOSCELES TRIANGLE
+Area: 0.296637
+Premeter: 3.9
+
+Do you want to repeat calculation?(y/n) y
+Input correct three sides of a triangle:
+1
+1.1
+1.2
+
+Three sides: a=1.2  b=1.1  c=1
+Three angle: A=69.5127  B=59.1695  C=51.3178
+Triangle Type: ACUTE SCALENE TRIANGLE
+Area: 0.515212
+Premeter: 3.3
+
+Do you want to repeat calculation?(y/n) y
+Input correct three sides of a triangle:
+1
+1
+9
+Input correct three sides of a triangle:
+1
+1
+1
+
+Three sides: a=1  b=1  c=1
+Three angle: A=60  B=60  C=60
+Triangle Type: ACUTE ISOSCELES EQUILATERAL TRIANGLE
+Area: 0.433013
+Premeter: 3
+
+Do you want to repeat calculation?(y/n) n
+
+Thank you!
+
+==========================================================================
+
+Press <RETURN> to close this window...

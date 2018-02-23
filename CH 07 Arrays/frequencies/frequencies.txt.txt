@@ -1,0 +1,36 @@
+Frequencies
+
+Read this array from the [K]eyboard or from a [F]ile? k
+-12 3 -12 4 1 1 -12 1 -1 1 2 3 4 2 3 -12
+Numbers Array:
+-12 3 -12 4 1 1 -12 1 -1 1 2 3 4 2 3 -12
+
+Number    Count
+-12         4
+3         3
+4         2
+1         4
+-1         1
+2         2
+
+
+Press <RETURN> to close this window...
+
+
+Frequencies
+
+Read this array from the [K]eyboard or from a [F]ile? f
+Enter a file name: integers.txt
+Numbers Array:
+-12 3 -12 4 1 1 -12 1 -1 1 2 3 4 2 3 -12
+
+Number    Count
+-12         4
+3         3
+4         2
+1         4
+-1         1
+2         2
+
+
+Press <RETURN> to close this window...

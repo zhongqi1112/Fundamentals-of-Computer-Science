@@ -1,0 +1,12 @@
+4_12_max
+
+Input A: 3
+Input B: 5
+The max is: 5
+
+Input A: 3
+Input B: 5
+Input C: 7
+The max is: 7
+
+Press <RETURN> to close this window...

@@ -1,0 +1,43 @@
+7_5_frequencies
+
+Read this array from the [K]eyboard or from a [F]ile? k
+How many numbers to be put in ? (up to 50)16
+Enter the numbers:
+1: 12
+2: 3
+3: 12
+4: 4
+5: 1
+6: 1
+7: 12
+8: 1
+9: 1
+10: 1
+11: 2
+12: 3
+13: 4
+14: 2
+15: 3
+16: 12
+1: 5
+2: 2
+3: 3
+4: 2
+12: 4
+Press <RETURN> to close this window...
+
+
+7_5_frequencies
+
+Read this array from the [K]eyboard or from a [F]ile? f
+Enter a file name: integers.txt
+12 3 12 4 1 1 12 1 1 1 2 3 4 2 3 12
+
+
+ --- END OF FILE _____
+1: 5
+2: 2
+3: 3
+4: 2
+12: 4
+Press <RETURN> to close this window...

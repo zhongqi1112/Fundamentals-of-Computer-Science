@@ -1,0 +1,32 @@
+
+         ===== END OF FILE ======
+
+A report with information:
+
+Number of Words in the file: 138203
+Number of Numbers in the file: 18
+Number of Punctuation in the file: 37973
+
+Top 20 Words
+Word          Frequency
+the             8024
+and             4999
+of             4008
+to             3569
+a             2944
+in             2599
+it             2067
+his             2011
+i             1987
+that             1940
+he             1857
+was             1773
+you             1427
+with             1311
+had             1306
+as             1163
+her             1045
+at             1034
+him             976
+for             960
+Press <RETURN> to close this window...

@@ -1,0 +1,21 @@
+5_3_add_time
+
+Current hour and minute and waiting hour and minute:
+8 25
+2 50
+After waiting, time is: 11:15A
+
+Do you want to repeat conversion?(y/n) y
+Current hour and minute and waiting hour and minute:
+8 25
+6 50
+After waiting, time is: 3:15P
+
+Do you want to repeat conversion?(y/n) n
+
+Thank you!
+
+==========================================================================
+
+
+Press <RETURN> to close this window...

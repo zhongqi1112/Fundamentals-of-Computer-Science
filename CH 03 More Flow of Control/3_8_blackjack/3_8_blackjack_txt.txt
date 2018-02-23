@@ -1,0 +1,73 @@
+3_8_blackjack
+You receive 2-5 cards.
+Input the 2-9
+10, jack, queen, king, and ace as 't', 'j', 'q', 'k', and 'a'.
+
+How many cards you have? 2
+What is your cards values?
+a
+t
+Total: 21
+
+Do you want to repeat the calculation?(y/n) y
+How many cards you have? 3
+What is your cards values?
+a
+a
+7
+Total: 19
+
+Do you want to repeat the calculation?(y/n) y
+How many cards you have? 3
+What is your cards values?
+a
+a
+2
+Total: 14
+
+Do you want to repeat the calculation?(y/n) y
+How many cards you have? 4
+What is your cards values?
+a
+a
+a
+7
+Total: 20
+
+Do you want to repeat the calculation?(y/n) y
+How many cards you have? 4
+What is your cards values?
+a
+a
+q
+k
+Busted!
+
+Do you want to repeat the calculation?(y/n) y
+How many cards you have? 5
+What is your cards values?
+a
+a
+a
+a
+7
+Total: 21
+
+Do you want to repeat the calculation?(y/n) y
+How many cards you have? 5
+What is your cards values?
+a
+a
+j
+q
+k
+Busted!
+
+Do you want to repeat the calculation?(y/n) n
+
+Thank you!
+
+==========================================================================
+
+
+Press <RETURN> to close this window...

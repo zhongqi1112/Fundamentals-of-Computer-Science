@@ -1,0 +1,19 @@
+fib()
+
+How many numbers will display? 7
+Fibonacci:
+1 1 2 3 5 8 13
+
+How many numbers will display? 4
+Fibonacci:
+1 1 2 3
+
+How many numbers will display? 9
+Fibonacci:
+1 1 2 3 5 8 13 21 34
+
+How many numbers will display? 12
+Fibonacci:
+1 1 2 3 5 8 13 21 34 55 89 144
+
+How many numbers will display?

@@ -1,0 +1,21 @@
+4_3_stock
+
+Input the number of shares: 100
+Input the price per share: 25 1/8
+Value of Share: 2512.5000
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Input the number of shares: 357
+Input the price per share: 13 1/8
+Value of Share: 4685.6250
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Input the number of shares: 13
+Input the price per share: 37 1/2
+Value of Share: 487.5000
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) n
+Press <RETURN> to close this window...

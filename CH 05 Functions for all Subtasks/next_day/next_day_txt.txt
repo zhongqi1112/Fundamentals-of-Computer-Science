@@ -1,0 +1,47 @@
+Next Day
+
+Input one day(mm/dd/yyyy):
+01/33/2014
+The max month is 12, and the max date is 31. Enter again.Input one day(mm/dd/yyy
+y):
+01/31/2014
+The Next Day is(mm/dd/yyyy):
+2/1/2014
+
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Input one day(mm/dd/yyyy):
+02/28/2014
+The Next Day is(mm/dd/yyyy):
+3/1/2014
+
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Input one day(mm/dd/yyyy):
+02/28/2016
+The Next Day is(mm/dd/yyyy):
+2/29/2016
+
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Input one day(mm/dd/yyyy):
+04/30/2014
+The Next Day is(mm/dd/yyyy):
+5/1/2014
+
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Input one day(mm/dd/yyyy):
+12/31/2014
+The Next Day is(mm/dd/yyyy):
+1/1/2015
+
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) n
+
+Press <RETURN> to close this window...

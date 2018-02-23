@@ -1,0 +1,57 @@
+3_1_paper_rock_scissor
+[P]Paper, [R]Rock, [S]Scissor.
+
+Player 1 Enter: p
+Player 2 Enter: P
+Tie!
+
+Do you want to play again? y
+Player 1 Enter: P
+Player 2 Enter: r
+Player 1 Win!
+
+Do you want to play again? y
+Player 1 Enter: p
+Player 2 Enter: S
+Player 2 Win!
+
+Do you want to play again? y
+Player 1 Enter: r
+Player 2 Enter: P
+Player 2 Win!
+
+Do you want to play again? y
+Player 1 Enter: R
+Player 2 Enter: r
+Tie!
+
+Do you want to play again? y
+Player 1 Enter: r
+Player 2 Enter: S
+Player 1 Win!
+
+Do you want to play again? Y
+Player 1 Enter: s
+Player 2 Enter: p
+Player 1 Win!
+
+Do you want to play again? y
+Player 1 Enter: S
+Player 2 Enter: R
+Player 1 Win!
+
+Do you want to play again? y
+Player 1 Enter: S
+Player 2 Enter: s
+Tie!
+
+Do you want to play again? n
+
+Thank you!
+
+==========================================================================
+
+
+Press <RETURN> to close this window...
+
+

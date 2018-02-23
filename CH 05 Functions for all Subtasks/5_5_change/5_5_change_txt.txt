@@ -1,0 +1,10 @@
+5_5_change
+
+Input the money: $43.68
+Twenty: 2
+Tens:0
+Dollars: 3
+Quarters: 2
+Dimes: 1
+Pennies: 8
+Press <RETURN> to close this window...

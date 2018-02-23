@@ -1,0 +1,172 @@
+Dice Game
+
+Your initialized money is: $100
+Input your bet: $10
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 3
+Dice is: 3
+Your bet is: $10
+Your wager is: $20
+Total is: $120
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 1
+Dice is: 1
+Your bet is: $10
+Your wager is: $20
+Total is: $140
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 4
+Dice is: 3
+Your bet is: $10
+Your wager is: $30
+Total is: $170
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 3
+Dice is: 1
+Your bet is: $10
+Your wager is: $-10
+Total is: $160
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 1
+Dice is: 4
+Your bet is: $10
+Your wager is: $-10
+Total is: $150
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 5
+Dice is: 3
+Your bet is: $10
+Your wager is: $-10
+Total is: $140
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 3
+Dice is: 5
+Your bet is: $10
+Your wager is: $-10
+Total is: $130
+[r]oll [b]et e[x]it
+b
+Bet: $20
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 1
+Dice is: 3
+Your bet is: $20
+Your wager is: $-20
+Total is: $110
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 3
+Dice is: 5
+Your bet is: $20
+Your wager is: $-20
+Total is: $90
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 1
+Dice is: 4
+Your bet is: $20
+Your wager is: $-20
+Total is: $70
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 3
+Dice is: 1
+Your bet is: $20
+Your wager is: $-20
+Total is: $50
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 3
+Dice is: 4
+Your bet is: $20
+Your wager is: $60
+Total is: $110
+[r]oll [b]et e[x]it
+b
+Bet: $50
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 5
+Dice is: 1
+Your bet is: $50
+Your wager is: $-50
+Total is: $60
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 6
+Dice is: 3
+Your bet is: $50
+Your wager is: $-50
+Total is: $10
+[r]oll [b]et e[x]it
+r
+Roll
+Your total is: $10
+Your bet is: $50
+Change your bet is smaller than total: $20
+Your total is: $10
+Your bet is: $20
+Change your bet is smaller than total: $10
+Dice is: 3
+Dice is: 4
+Your bet is: $10
+Your wager is: $30
+Total is: $40
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 3
+Dice is: 2
+Your bet is: $10
+Your wager is: $-10
+Total is: $30
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 2
+Dice is: 3
+Your bet is: $10
+Your wager is: $-10
+Total is: $20
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 3
+Dice is: 5
+Your bet is: $10
+Your wager is: $-10
+Total is: $10
+[r]oll [b]et e[x]it
+r
+Roll
+Dice is: 6
+Dice is: 5
+Your bet is: $10
+Your wager is: $-10
+Total is: $0
+
+Game over
+
+Press <RETURN> to close this window...

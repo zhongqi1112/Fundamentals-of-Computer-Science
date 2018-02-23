@@ -1,0 +1,27 @@
+3_10_Fibonacci
+
+Enter the initial pounds: 1
+Enter days: 100
+Pounds: 10946
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Enter the initial pounds: 5
+Enter days: 200
+Pounds: 827900705
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Enter the initial pounds: 8
+Enter days: 120
+Pounds: 600200
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) n
+
+Thank you!
+
+==========================================================================
+
+
+Press <RETURN> to close this window...

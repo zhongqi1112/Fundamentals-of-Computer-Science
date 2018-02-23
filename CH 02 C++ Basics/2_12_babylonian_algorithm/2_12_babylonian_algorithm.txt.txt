@@ -1,0 +1,44 @@
+2_12_babylonian_algorithm
+
+Input a number: 2
+The Square Root is: 1.42367
+
+Do you want to repeat calculation?(y/n) y
+Input a number: 3
+The Square Root is: 1.73237
+
+Do you want to repeat calculation?(y/n) y
+Input a number: 4
+The Square Root is: 2.00011
+
+Do you want to repeat calculation?(y/n) y
+Input a number: 5
+The Square Root is: 2.24999
+
+Do you want to repeat calculation?(y/n) y
+Input a number: 6
+The Square Root is: 2.45833
+
+Do you want to repeat calculation?(y/n) y
+Input a number: 7
+The Square Root is: 2.6529
+
+Do you want to repeat calculation?(y/n) y
+Input a number: 8
+The Square Root is: 2.83423
+
+Do you want to repeat calculation?(y/n) y
+Input a number: 9
+The Square Root is: 3.00485
+
+Do you want to repeat calculation?(y/n) y
+Input a number: 10
+The Square Root is: 3.1664
+
+Do you want to repeat calculation?(y/n) n
+
+Thank you!
+
+==========================================================================
+
+Press <RETURN> to close this window...

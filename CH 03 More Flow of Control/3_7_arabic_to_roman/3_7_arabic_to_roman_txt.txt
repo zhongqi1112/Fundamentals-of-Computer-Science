@@ -1,0 +1,26 @@
+3_7_arabic_to_roman
+
+Enter four dights Arabic(1000-3000): 1991
+MDCCCCLXXXXI
+
+Do you want to do again? y
+Enter four dights Arabic(1000-3000): 2014
+MMXIV
+
+Do you want to do again? y
+Enter four dights Arabic(1000-3000): 3000
+MMM
+
+Do you want to do again? y
+Enter four dights Arabic(1000-3000): 3456
+Please input 1000-3000!
+CDLVI
+
+Do you want to do again? n
+
+Thank you!
+
+==========================================================================
+
+
+Press <RETURN> to close this window...

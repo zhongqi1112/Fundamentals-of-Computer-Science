@@ -1,0 +1,32 @@
+2_6_meeting_room
+
+Maximum Room Capacity: 50
+Number of people to attend the meeting: 45
+It is legal to hold the meeting.
+Additional people may legally attend: 5
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Maximum Room Capacity: 50
+Number of people to attend the meeting: 55
+The meeting cannot be held as planned due to fire regulations!
+People must be excluded in order to meet the fire regulations: 5
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Maximum Room Capacity: 50
+Number of people to attend the meeting: 50
+It is legal to hold the meeting.
+Additional people may legally attend: 0
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) n
+
+Thank you!
+
+==========================================================================
+
+
+Press <RETURN> to close this window...
+
+

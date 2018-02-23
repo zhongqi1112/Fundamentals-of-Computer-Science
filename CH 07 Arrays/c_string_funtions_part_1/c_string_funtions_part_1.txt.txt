@@ -1,0 +1,44 @@
+CString 1: 0123456789
+CString 2: abcd54321efgh
+
+Length: CString 1: 10
+Length: CString 2: 13
+
+Start: 4
+End: 8
+Index range: 54321
+
+CString 1 is less than CString 2.
+
+After StrNCpy:
+str1: abcd5
+str2: abcd54321efgh
+
+After StrNCat:
+str1: abcd5abcd54321efgh
+str2: abcd54321efgh
+
+After StrCpy:
+str1: abcd54321efgh
+str2: abcd54321efgh
+
+After StrCat:
+str1: abcd54321efghabcd54321efgh
+str2: abcd54321efgh
+
+Show: CString 1, Marker=4:
+abcd54321efghabcd54321efgh
+....^
+
+Show: CString 2, Marker=8:
+abcd54321efgh
+........^
+
+Upper:ABCDEFG
+Lower:hijklmn
+Convert the cstring to upper case:
+abcdefg
+Convert the cstring to upper case:
+HIJKLMN
+
+Press <RETURN> to close this window...

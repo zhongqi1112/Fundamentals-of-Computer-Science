@@ -1,0 +1,33 @@
+4_2_mpg_two_cars
+
+Car 1:
+Input the number of liters of gasoline (in liters): 200
+Input the number of miles: 300
+
+Car 2:
+Input the number of liters of gasoline (in liters): 250
+Input the number of miles: 300
+
+Car 1: Mile per gallon: 5.67797
+Car 2: Mile per gallon: 4.54237
+
+Car 1 has the best fuel efficiency.
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Car 1:
+Input the number of liters of gasoline (in liters): 350
+Input the number of miles: 450
+
+Car 2:
+Input the number of liters of gasoline (in liters): 300
+Input the number of miles: 400
+
+Car 1: Mile per gallon: 4.86683
+Car 2: Mile per gallon: 5.04708
+
+Car 2 has the best fuel efficiency.
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) n
+Press <RETURN> to close this window...

@@ -1,0 +1,10 @@
+Hello World!
+
+
+What were you born? 1991
+You were born in 1991
+You are 23 years old. You are young.
+
+======================
+
+Press <RETURN> to close this window...

@@ -1,0 +1,33 @@
+2_3_annual_salary
+
+Previous Annual Salary: $10000
+Retroactive Pay: $380
+New Annual Salary: $10760
+New Monthly Salary: $896.667
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Previous Annual Salary: $20000
+Retroactive Pay: $760
+New Annual Salary: $21520
+New Monthly Salary: $1793.33
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Previous Annual Salary: $345678
+Retroactive Pay: $13135.8
+New Annual Salary: $371950
+New Monthly Salary: $30995.8
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) n
+
+Thank you!
+
+==========================================================================
+
+
+Press <RETURN> to close this window...
+
+
+

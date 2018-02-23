@@ -1,0 +1,60 @@
+2_7_employee_pay
+
+The number of hours worked: 30
+The number of dependents: 1
+Gross pay: $503.4
+Social Security Tax: $30.204
+Federal Income Tax: $70.476
+State Income Tax: $25.17
+Union Dues: $10
+The Extra Cost of Health Insurance: $0
+The Net Take-home Pay: $367.55
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+The number of hours worked: 30
+The number of dependents: 5
+Gross pay: $503.4
+Social Security Tax: $30.204
+Federal Income Tax: $70.476
+State Income Tax: $25.17
+Union Dues: $10
+The Extra Cost of Health Insurance: $35
+The Net Take-home Pay: $332.55
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+The number of hours worked: 50
+The number of dependents: 1
+Gross pay: $922.9
+Social Security Tax: $55.374
+Federal Income Tax: $129.206
+State Income Tax: $46.145
+Union Dues: $10
+The Extra Cost of Health Insurance: $0
+The Net Take-home Pay: $682.175
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+The number of hours worked: 50
+The number of dependents: 5
+Gross pay: $922.9
+Social Security Tax: $55.374
+Federal Income Tax: $129.206
+State Income Tax: $46.145
+Union Dues: $10
+The Extra Cost of Health Insurance: $35
+The Net Take-home Pay: $647.175
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) n
+
+Thank you!
+
+==========================================================================
+
+
+Press <RETURN> to close this window...
+
+
+

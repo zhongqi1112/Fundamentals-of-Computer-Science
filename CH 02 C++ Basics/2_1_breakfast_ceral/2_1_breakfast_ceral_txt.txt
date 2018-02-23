@@ -1,0 +1,29 @@
+2_1_breakfast ceral
+
+Weight of a package of breakfast cereal in ounces: 400
+Weight in metric tons: 0.0113398 tons
+The number of boxes needed to yield one metric ton of cereal: 88
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Weight of a package of breakfast cereal in ounces: 800
+Weight in metric tons: 0.0226796 tons
+The number of boxes needed to yield one metric ton of cereal: 44
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Weight of a package of breakfast cereal in ounces: 1200
+Weight in metric tons: 0.0340195 tons
+The number of boxes needed to yield one metric ton of cereal: 29
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) n
+
+Thank you!
+
+==========================================================================
+
+
+Press <RETURN> to close this window...
+
+

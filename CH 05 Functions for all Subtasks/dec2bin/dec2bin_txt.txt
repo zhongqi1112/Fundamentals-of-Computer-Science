@@ -1,0 +1,104 @@
+Decimal to Binary
+
+Input Decimal: 1
+Binary: 1
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 2
+Binary: 10
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 3
+Binary: 11
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 4
+Binary: 100
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 5
+Binary: 101
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 6
+Binary: 110
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 7
+Binary: 111
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 8
+Binary: 1000
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 9
+Binary: 1001
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 10
+Binary: 1010
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 11
+Binary: 1011
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 12
+Binary: 1100
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 13
+Binary: 1101
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 14
+Binary: 1110
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 15
+Binary: 1111
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 16
+Binary: 10000
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 17
+Binary: 10001
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 18
+Binary: 10010
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 19
+Binary: 10011
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 20
+Binary: 10100
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 21
+Binary: 10101
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 22
+Binary: 10110
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 23
+Binary: 10111
+
+Do you want to repeat conversion?(y/n) y
+Input Decimal: 24
+Binary: 11000
+
+Do you want to repeat conversion?(y/n) n
+
+Thank you!
+
+==========================================================================
+
+Press <RETURN> to close this window...

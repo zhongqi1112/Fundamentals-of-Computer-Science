@@ -1,0 +1,8 @@
+5_12_etc_unit_conversion_txt
+
+5lbs and 3oz = 2kg 353.05g
+5kg and 3g = 11lb 0.45581oz
+5ft and 3in = 1m 60.02cm
+5m and 3cm = 16ft 5.26002in
+
+Press <RETURN> to close this window...

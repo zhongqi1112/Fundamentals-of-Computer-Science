@@ -1,0 +1,15 @@
+4_4_rate_of_inflation
+
+Input the price of last year: $120
+Input the price of today: $200
+Rate of Inflation: 66.67%
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) y
+Input the price of last year: $80
+Input the price of today: $100
+Rate of Inflation: 25.00%
+==========================================================================
+
+Do you want to repeat the calculation?(y/n) n
+Press <RETURN> to close this window...

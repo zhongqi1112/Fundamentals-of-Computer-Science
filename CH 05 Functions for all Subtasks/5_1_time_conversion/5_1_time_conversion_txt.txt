@@ -1,0 +1,17 @@
+5_1_time_conversion
+
+Input hour and minute: 8 15
+8:15A
+
+Do you want to repeat conversion?(y/n) y
+Input hour and minute: 16 50
+4:50P
+
+Do you want to repeat conversion?(y/n) n
+
+Thank you!
+
+==========================================================================
+
+
+Press <RETURN> to close this window...

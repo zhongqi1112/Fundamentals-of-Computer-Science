@@ -1,0 +1,48 @@
+4_15_vending_machine
+[d]dollar, [q]quarter, [i]dime, [n]nickel
+
+Put coin:
+d
+Total: $1
+
+Put coin:
+q
+Total: $1.25
+
+Put coin:
+i
+Total: $1.35
+
+Put coin:
+n
+Total: $1.4
+
+Put coin:
+w
+Put the correct coin.
+Total: $1.4
+
+Put coin:
+d
+Total: $2.4
+
+Put coin:
+q
+Total: $2.65
+
+Put coin:
+i
+Total: $2.75
+
+Put coin:
+n
+Total: $2.8
+
+Put coin:
+d
+Total: $3.8
+
+Enjoy your deep-fried twinkie
+Returned change: $0.3
+
+Press <RETURN> to close this window...

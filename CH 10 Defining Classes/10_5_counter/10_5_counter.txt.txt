@@ -1,0 +1,46 @@
+10_5_counter
+
+[A]dd [D]ecrease [R]eset [Q]uit
+a1
+1
+a5
+6
+a9
+15
+a9
+24
+a8
+32
+d5
+27
+d5
+22
+d9
+13
+d7
+6
+d9
+Can Not Negative
+0
+d9
+Can Not Negative
+0
+a1
+1
+a5
+6
+a6
+12
+a8
+20
+a9
+29
+a9
+38
+r
+0
+a1
+1
+q
+1
+Press <RETURN> to close this window...

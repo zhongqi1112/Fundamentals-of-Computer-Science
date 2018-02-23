@@ -1,0 +1,8 @@
+Binary to Decimal
+
+Input Binary: 1101
+Deciaml: 13
+
+========================================
+
+Press <RETURN> to close this window...

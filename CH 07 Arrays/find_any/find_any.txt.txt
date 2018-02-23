@@ -1,0 +1,13 @@
+find_any
+
+Dights: 0 1 2 3 4 5 6 7 8 9
+Source: a b c d 5 4 3 2 1 e f g h
+Length: Dights: 10
+Length: Source: 13
+Start: 4
+End: 8
+Strchr: 5 4 3 2 1
+
+===================================
+
+Press <RETURN> to close this window...
