@@ -24,7 +24,7 @@ The concepts discussed in this course will all be taught through the C++ program
   
 ## Upon completion of the course you should be able to
   - Understand the difference between ‘while’, ‘do-while’, and ‘for’ loops, and when each type is best suited for solving a problem
-  - Understand the difference between pass-by-reference and pass-by-value variables, and when each type is best suited,
+  - Understand the difference between pass-by-reference and pass-by-value variables, and when each type is best suited
   - Save data to files and extract data from files
   - Understand how to use arrays
   - Write programs using a top-down design
