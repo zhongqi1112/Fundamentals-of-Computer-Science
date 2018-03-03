@@ -1,6 +1,6 @@
 # Fundamentals of Computer Science
 
-Welcome to Fundamentals of Computer Sicence course. I will share fundamental knowledge of computer science. If you have any questions, feel free to contact me.
+Welcome to Fundamentals of Computer Sicence course. I will share fundamental knowledge of computer science.
 
 ## Description
 
