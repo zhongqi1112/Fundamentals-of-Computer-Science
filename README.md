@@ -6,7 +6,7 @@ Welcome to Fundamentals of Computer Sicence course. I will share fundamental kno
 
 Introduction to the science of computers, algorithms, computer organization, flowchart design, computing systems, programming concepts, data structures, nonnumerical applications, introductory numerical methods For Computer Science, Computer Engineering, Mathematics, and Science majors but open to all qualified students.
 
-**Textbook**: Problem Solving in C++ by Walter Savitch
+**Textbook**: [Problem Solving in C++ by Walter Savitch](./ProblemSolvingwithC++.pdf)
 
 ## Learning Outcomes
 1. Demonstrate the top-down design of a computer program to solve a problem of moderately difficult problem.
