@@ -1,6 +1,6 @@
 # Fundamentals of Computer Science
 
-Welcome to Fundamentals of Computer Sicence course. I will share fundamental knowledge of computer science.
+Welcome to Fundamentals of Computer Sicence course, **C++ tutorial**.
 
 ## Description
 
@@ -30,11 +30,16 @@ The concepts discussed in this course will all be taught through the C++ program
   - Write programs using a top-down design
   - Debug programs
 
-
 #### The most important skill that students must develop in this course is the ability to effectively use top-down design and procedural abstraction.
-
 
 **Top-down design**: The ‘main’ function should have very minimal amount of code. If a computation is needed to be performed, it should be done in a function. Within functions, the number of lines necessary to complete a computation should typically not exceed 20 lines of code. If the computation performed within a function is too long, it needs to be broken down further to smaller functions. The results will be a program in which large computations are broken down into smaller ones.
 
-
 **Procedural Abstraction**: The purpose of a function should be specific to a task and reusable for multiple programs which require a similar computation. A function should not make any reference to the details of the program/problem at hand. It should perform a necessary task, independent of what is going on in the rest of the program.
+
+## Projects
+
+- [Black Jack](https://github.com/zhongqi1112/Fundamentals-of-Computer-Science/tree/master/Ch03MoreFlowofControl/3_8_BlackJack)
+- [Converting decimal and binary](https://github.com/zhongqi1112/Fundamentals-of-Computer-Science/tree/master/Ch05FunctionsForAllSubtasks)
+- [Text Crawler](https://github.com/zhongqi1112/Fundamentals-of-Computer-Science/tree/master/Ch07Arrays/TokenizerGetNextToken)
+
+![Grawler](https://github.com/zhongqi1112/Fundamentals-of-Computer-Science/blob/master/Ch07Arrays/TokenizerGetNextToken/tokenizer_getnexttoken.jpg.jpg)
