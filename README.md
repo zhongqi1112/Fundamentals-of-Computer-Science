@@ -42,4 +42,4 @@ The concepts discussed in this course will all be taught through the C++ program
 - [Converting decimal and binary](https://github.com/zhongqi1112/Fundamentals-of-Computer-Science/tree/master/Ch05FunctionsForAllSubtasks)
 - [Text Crawler](https://github.com/zhongqi1112/Fundamentals-of-Computer-Science/tree/master/Ch07Arrays/TokenizerGetNextToken)
 
-![Grawler](https://github.com/zhongqi1112/Fundamentals-of-Computer-Science/blob/master/Ch07Arrays/TokenizerGetNextToken/tokenizer_getnexttoken.jpg.jpg)
+![Grawler](http://zhongqi1112.me/Fundamentals-of-Computer-Science/Ch07Arrays/TokenizerGetNextToken/tokenizer_getnexttoken.jpg.jpg)
