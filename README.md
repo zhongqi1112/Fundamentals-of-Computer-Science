@@ -36,7 +36,7 @@ The concepts discussed in this course will all be taught through the C++ program
 
 **Procedural Abstraction**: The purpose of a function should be specific to a task and reusable for multiple programs which require a similar computation. A function should not make any reference to the details of the program/problem at hand. It should perform a necessary task, independent of what is going on in the rest of the program.
 
-## Projects
+## Outstanding Projects
 
 - [Black Jack](https://github.com/zhongqi1112/Fundamentals-of-Computer-Science/tree/master/Ch03MoreFlowofControl/3_8_BlackJack)
 - [Converting decimal and binary](https://github.com/zhongqi1112/Fundamentals-of-Computer-Science/tree/master/Ch05FunctionsForAllSubtasks)
