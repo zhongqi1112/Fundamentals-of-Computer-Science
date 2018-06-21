@@ -14,17 +14,9 @@ int main()
         cin>>num;
         total = total + num;
         cout<<count<<" numbers, and new total: "<<total<<endl;
-
-
         count++;
     }
-    cout<<endl;
-
-
-
-
-
-    cout << "====================================" <<endl<<endl<<endl<< endl;
+    cout << endl << "====================================" <<endl;
     return 0;
 }
 

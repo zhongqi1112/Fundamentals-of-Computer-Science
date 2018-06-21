@@ -4,12 +4,14 @@ using namespace std;
 
 int main()
 {
-    cout << "2_1_breakfast ceral" << endl << endl;
+    cout << "Breakfast Cereal" << endl << endl;
+
     const double metric_ton = 35273.92;
     double weight_ounces;
     double weight_tons;
     int boxes;
     char ans;
+
     do
     {
         cout << "Weight of a package of breakfast cereal in ounces: ";
@@ -22,8 +24,8 @@ int main()
         cout << "Do you want to repeat the calculation?(y/n) ";
         cin >> ans;
     } while (ans == 'y');
-    cout << endl;
-    cout << "Thank you!" << endl << endl;
+
+    cout << endl << "Thank you!" << endl << endl;
     cout << "==========================================================================" << endl << endl << endl;
     return 0;
 }

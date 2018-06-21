@@ -7,7 +7,9 @@ int main()
 {
     cout << "2_12_babylonian_algorithm" << endl << endl;
     int n;
-    double r, guess, error;
+    double r;
+    double guess
+    double error;
     char ans;
     do
     {
